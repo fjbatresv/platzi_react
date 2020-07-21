@@ -8,7 +8,6 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <HolaMundo />
     <Button text="Text from index" />
   </React.StrictMode>,
   document.getElementById('root')
